@@ -1,0 +1,19 @@
+Gameplay
+
+    Saving: fixed points are save points
+    
+    Inventory: matrix 3x3, grows relative to exponent power
+    
+    Damage is relative to the power exp. However it is not equal to the exponential growth rather it grows linearly.
+    
+    Visual: 2D side scroller
+    
+    Single player
+    
+    Real time combat
+    
+    Controls: wasd or arrow keys, space is jump, e for interact, tab for inventory, left click normal attack, right click is heavy attack
+    
+    Fast movement: Fast travel to each fixed point previously reached
+    
+    Death: respawn to last fixed point (or beginning), decrement player power by 1 (if not reset game)

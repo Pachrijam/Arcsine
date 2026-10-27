@@ -1,0 +1,48 @@
+Protagonist
+
+    Protagonist: x
+    Leveling: 1-999. You increase 1 for every 10 common enemies, 1 for every 5 uncommon enemies, 1 for every rare enemy. Mini bosses give you 10 upon defeat, main bosses give you 25. Power 999 can be a special completion unlock.
+
+Basic Enemies
+
+    Tier 1 Common Enemies: +, -
+    Tier 2 Uncommon Enemies: *, /
+    Tier 3 Rare Enemies: exp, sqrt, ln, log
+
+Mini Bosses
+
+    Mini Boss 1: sin
+    Mini Boss 2: cos
+    Mini Boss 3: tan
+
+Main Bosses 
+
+    Boss 1: imaginary number (i)
+    Boss 2: Derivative
+    Boss 3: Integral(s)
+    Boss 4: Series & infinity
+    Boss 5: inverse
+
+Final Boss
+
+    Final Boss(s): undefined, aleph null, 
+
+Locations
+
+    Locations: HIllbert’s Hotel, origin (0,0), mobius strip, fractal caves, asymptote cliffs,
+
+Items/Abilities/Currency
+
+    Abilities: limit, abs, mod, 
+    Items: klein bottle, cartesian stone, map (graph), 
+    Weapons: Arc (bow) with vectors (arrows), Secare > tangere (sword)
+    Currency: radians & degrees
+
+Friendly NPCS
+
+    Important Characters: pi, e, golden ratio, mu, theta, tau, omega, lambda, alpha
+    Non-important: 2,3…c (basic constants)
+    Note Worthy: [3,4,5], perfect numbers
+    Shopkeepers: converts radians to degrees, degrees to radians, 
+    Non-Friendly NPCS
+    Non-friendly NPCS: 0, twin primes, epsilon & delta
