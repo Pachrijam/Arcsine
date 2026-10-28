@@ -1,0 +1,55 @@
+Protagonist
+
+    Protagonist: x
+    Leveling: 1-999. You increase 1 for every 10 common enemies, 1 for every 5 uncommon enemies, 1 for every rare enemy. Mini bosses give you 10 upon defeat, main bosses give you 25. Power 999 can be a special completion unlock.
+
+Basic Enemies
+
+    Tier 1 Common Enemies: +, -
+    Tier 2 Uncommon Enemies: *, /
+    Tier 3 Rare Enemies: exp, sqrt, ln, log
+
+Mini Bosses
+
+    Mini Boss 1: sin
+    Mini Boss 2: cos
+    Mini Boss 3: tan
+
+Main Bosses 
+
+    Boss 1: imaginary number (i)
+    Boss 2: Derivative
+    Boss 3: Integral(s)
+    Boss 4: Series & infinity
+    Boss 5: inverse
+
+Final Boss
+
+    Final Boss(s): undefined, aleph null, 
+
+Friendly NPCS
+
+    Important Characters: pi, e, golden ratio, mu, theta, tau, omega, lambda, alpha
+    Non-important: 2,3…c (basic constants)
+    Note Worthy: [3,4,5], perfect numbers
+    Shopkeepers: converts radians to degrees, degrees to radians, 
+    Non-Friendly NPCS
+    Non-friendly NPCS: 0, twin primes, epsilon & delta
+
+How important NPCs fit into the story
+
+    Friendly Characters
+    1. alpha is the tutorial guide at the origin
+    2. theta teaches trig abilities
+    3. pi is a shopkeeper who convert degrees to radians
+    4. tau is the rival shopkeeper who converts radians to degrees
+    5. e is a banker who you can store radians and degrees with and they gain interest, has a connection to i and pi
+    6. golden ratio leads you to the limit ability
+    7. mu kept balance in time ever since 1 didn't
+    8. omega knows what happened to 1 and aleph null and gives you clues on where to find it 
+    9. lambda is the blacksmith, can repair or upgrade weapons in exchange for radians
+
+    Non-Friendly Characters
+    1. 0 is basically the dark link equivalent of aleph null and is a very powerful reflection of 1 that you must fight
+    2. twin primes are mercanaries you find along the roads. They have linked lives and must be killed at the same time in a certain window
+    3. epsilon and delta are tricksters that turn friendly. They provide clues and information about 1 and aleph null and also teach limit ability use

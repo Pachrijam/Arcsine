@@ -17,3 +17,14 @@ Gameplay
     Fast movement: Fast travel to each fixed point previously reached
     
     Death: respawn to last fixed point (or beginning), decrement player power by 1 (if not reset game)
+
+Locations
+
+    Locations: HIllbert’s Hotel, origin (0,0), mobius strip, fractal caves, asymptote cliffs,
+
+Items/Abilities/Currency
+
+    Abilities: limit, abs, mod, 
+    Items: klein bottle, cartesian stone, map (graph), 
+    Weapons: Arc (bow) with vectors (arrows), Secare > tangere (sword)
+    Currency: radians & degrees
