@@ -53,3 +53,11 @@ How important NPCs fit into the story
     1. 0 is basically the dark link equivalent of aleph null and is a very powerful reflection of 1 that you must fight
     2. twin primes are mercanaries you find along the roads. They have linked lives and must be killed at the same time in a certain window
     3. epsilon and delta are tricksters that turn friendly. They provide clues and information about 1 and aleph null and also teach limit ability use
+
+Protagonist and how they fit into the story
+
+    1. x is a silent character
+    2. x is an unknown variable, wakes up at the origin with no recollection of anything
+    3. motivation: save the world to save oneself and others along the way
+    4. end of game it's revealed that x=x. It doesn't need to be something different from what it already is and dividing x/x is 1 and stops the undefined.
+    
