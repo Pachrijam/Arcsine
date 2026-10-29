@@ -1,13 +1,28 @@
-Prologue: Long ago, in a village near the origin, there lived a constant named 1. His job was simple: he counted the time, every dawn and every dusk, one tick after another.
-But somewhere along the way, counting stopped being a job and became a craving. He couldn’t stop at one more. Then one more. Then one more after that, until the day he looked down and found he was no longer 1. He had become ℵ₀, the infinity that can be counted but never finished.
-Terrified, he tried to undo it the only way he knew how: he divided himself by himself, hoping to become 1 again. But infinity divided by infinity has no answer. The attempt tore open the Undefined, and it has spread on its own ever since, indifferent to anyone’s wishes. At the far ends of the Plane, where it meets positive and negative infinity, the world began to shrink inward, and cracks spread across it.
-Those who came to help him were lost. Adding anything finite to infinity changes nothing about the infinity, so everything he touched vanished into him. At first he was horrified. Then he began to notice how much of the world could be folded into him, and how little of it could survive his weight.
-When a way was found to make him 1 again, he refused. A 1 can end, and he never wanted to end.
-Now he lives on the Asymptote Cliffs, and he has decided that the cartesian plane should fold inward, all the way to the origin, until nothing finite is left and only infinity remains.
-And at the origin, a variable woke up.
+Prologue: 
+    
+    Long ago, in a village near the origin, there lived a constant named 1. His job was simple: he counted the time, every dawn and every dusk, one tick after another.
+    But somewhere along the way, counting stopped being a job and became a craving. He couldn’t stop at one more. Then one more. Then one more after that, until the day he looked down and found he was no longer 1. He had become ℵ₀, the infinity that can be counted but never finished.
+    Terrified, he tried to undo it the only way he knew how: he divided himself by himself, hoping to become 1 again. But infinity divided by infinity has no answer. The attempt tore open the Undefined, and it has spread on its own ever since, indifferent to anyone’s wishes. At the far ends of the Plane, where it meets positive and negative infinity, the world began to shrink inward, and cracks spread across it.
+    Those who came to help him were lost. Adding anything finite to infinity changes nothing about the infinity, so everything he touched vanished into him. At first he was horrified. Then he began to notice how much of the world could be folded into him, and how little of it could survive his weight.
+    When a way was found to make him 1 again, he refused. A 1 can end, and he never wanted to end.
+    Now he lives on the Asymptote Cliffs, and he has decided that the cartesian plane should fold inward, all the way to the origin, until nothing finite is left and only infinity remains.
+    And at the origin, a variable woke up.
 
 Chapter 1:
-X spawns at the origin, where there is a collection of ruins. Nearby there is a town that x stumbles into and there he learns about the 
+    
+    X spawns in at the origin. Centered around the origin is a small town with a clock tower in the middle.
+    X spawns specifically inside the clock tower. X notices that the clock tower is missing one of the numbers (1)
+    that should be on the clock face and the hands of the clock stay frozen. There are also scratch marks inside the 
+    clock tower central room, tally marks as well. As X explores the now silent town and clock tower, it encounters 
+    constants which are town residents. In addition to meeting constants, x is exposed to mu when further exploring the 
+    clock tower as mu is only trying to keep time together rather than move it forward. In the town, 
+    X meets alpha, who teaches the basic game mechanics and also has clues on where to go next, gain exp,
+    and where you can find other important characters. Eventually towards the end of the chapter X learns
+    about how aleph null is destroying the cartesian world but most importantly that end behavior of the world is now decreasing.
+    The pivotal point occurs when a crack appears in the village and hordes of +s and -s come out, attacking and killing
+    several of the constant in the village, many of which X had previously talked to. alpha encourages X to continue on 
+    outside the village to find a theta which could grant him more abilities to save the village. However mu argues
+    that X shouldn't even try and that there is no way to stop the end behavior of the world. 
 
 Chapter 2:
 
